@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/yeni_menu_yeni_kitap"
+        android:icon="@drawable/ic_yeni"
+        app:showAsAction="always"
+        android:title="Kitap Ekle" />
+</menu>
